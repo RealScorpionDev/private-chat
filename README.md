@@ -9,4 +9,4 @@ Just a private chat thing that u can use to talk with your friends in the same n
 5. enter your username
 6. and talk with your friends if you even have some
 
-i will make a better version with encryption and way more privacy and it wont be local network but right now this is prototypenext time it will be a anonymus chat thing or whatever you can click of because i already know you dont have friends to talk to lol 
+i will make a better version with encryption and way more privacy and it wont be local network but right now this is prototype next time it will be a anonymus chat thing or whatever you can click of because i already know you dont have friends to talk to lol 
