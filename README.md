@@ -36,9 +36,10 @@ server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind(("0.0.0.0", 9999))
 server.listen(5)
 ```
-## Attribution
+## License
 
-If you use this project or a modified version of it, please credit the original creator:
+This project is licensed under the Apache License 2.0.
 
-Original project by Mirza  
-GitHub: https://github.com/scopiondev-art
+Copyright 2026 scopiondev-art.
+
+See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for details.
