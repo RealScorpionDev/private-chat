@@ -40,6 +40,6 @@ server.listen(5)
 
 This project is licensed under the Apache License 2.0.
 
-Copyright 2026 scopiondev-art.
+Copyright 2026 RealScorpionDev.
 
 See the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for details.
