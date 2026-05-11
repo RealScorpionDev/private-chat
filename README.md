@@ -41,4 +41,4 @@ server.listen(5)
 If you use this project or a modified version of it, please credit the original creator:
 
 Original project by Mirza  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/scopiondev-art
